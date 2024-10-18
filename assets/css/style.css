@@ -1,0 +1,52 @@
+Body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* Specify the background image path */
+    background-image: url('../img/bgimage2.png'); /* Correct path to your image */
+    background-size: cover; /* Makes the image cover the entire background */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Makes the background fixed when scrolling */
+    margin: 0;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 1,1rem;
+    line-height: 1.6;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    background-color: #343a40;
+    color: white;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+#about, #experience, #education, #skills, #contact {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.carousel img {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.image-crop {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
