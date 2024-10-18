@@ -6,14 +6,33 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.jpg" alt="JPstudios" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-PACHEJO-MIDTERMS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Project Overview
+The nature of this project is to upgrade a regular static CV into an engaging and animated web resource. • The purpose is to have a web space to share basic personal information, employment history, education, skills and samples of work, providing an appealing method of presenting an employment application.
+
+For instance, the website layout has sections like About Me, Experience, Education, Skills and Portfolio. All major sections contain the down-scaled, but detailed information in a contemporary, adaptively arranged manner.
+
+Purpose
+The main objective of the project is the presentation of the resume of the photographer and the director, the subject of the profile, named Joshua David J. Pachejo, in the technically advanced format, aiding further promotion and easy access.
+
+Key Components
+Flexible multiple-page layout for resume sections
+The layout of portfolio items as the next activity (photos)
+Top navigation bar connected each other interacting.
+Appealing background and header images for design
+Designing website to fit in to the various types of devices that are in use today.
+Technology Used
+HTML for structuring content
+CSS for styling and layout
+Bootstrap for initial layout and styling and for the navigation bar and carousel, horizontal scrolling techniques
+For dynamic features the best choice can be JavaScript.
+This website provides a clear presentation of a modern digital resume, as in today’s world people use technology to represent themselves.e 
 </div>
 
 <br />
